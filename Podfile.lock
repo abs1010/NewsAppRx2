@@ -1,0 +1,25 @@
+PODS:
+  - lottie-ios (3.1.9)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxSwift (4.5.0)
+
+DEPENDENCIES:
+  - lottie-ios (~> 3.1)
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+    - RxCocoa
+    - RxSwift
+
+SPEC CHECKSUMS:
+  lottie-ios: 3a3758ef5a008e762faec9c9d50a39842f26d124
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+
+PODFILE CHECKSUM: 8ae4cf2e1b7186366fe92f730f3f26c7f549246d
+
+COCOAPODS: 1.9.3
